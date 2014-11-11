@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeneradorAleatorio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hola">Bienvenido a su generador aleatorio.</string>
+    <string name="numeros">Numeros Aleatorios</string>
+
+</resources>
